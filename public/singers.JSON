@@ -1,0 +1,135 @@
+[
+    {
+        "key": "A11GSBF",
+        "name": "Foria Parveen",
+        "born": "December 31, 1954(age 66 years)",
+        "genre": "Bangla Folk music, Pop, Folk",
+        "recordLabels": "Bengal Foundation Limited, Ocora Radio France, Bengal Foundation",
+        "demand": 500000,
+        "id":1,
+        "img": "./images/image1.jpg"
+
+    },
+    {
+        "key": "B22MKYG",
+        "name": "Tom Paxton",
+        "born": "October 31, 1937 (age 83 years)",
+        "genre": " Folk music, Country and Children's Music",
+        "recordLabels": "Tom Paxton has become a voice of his generation and inhumanity",
+        "demand": 750000,
+        "id":2,
+        "img": "./images/image2.jpg"
+
+    },
+    {
+        "key": "C33EIFH",
+        "name": "Surojit Chatterjee",
+        "born": "May 7, 1966 (age 55 years), Birbhum, India",
+        "genre": "Soundtracks, Folk music, Pop, Folk",
+        "recordLabels": " Times Music, N.K.Music & Studio Pvt Ltd, Asha Audio Company",
+        "demand": 450000,
+        "id":3,
+        "img": "./images/image3.jpg"
+
+    },
+    {
+        "key": "D44KOVD",
+        "name": "Sahana Bajpaie",
+        "born": "Santiniketan",
+        "genre": "Folk music, Pop, Folk",
+        "recordLabels": " Bengal Music Company, INRECO, Saptarshi Routh, Khuchro Shabdo, MAJOR MUSIC, B.M.C",
+        "demand": 400000,
+        "id":4,
+        "img": "./images/image4.jpg"
+
+    },
+    {
+        "key": "E55HBFC",
+        "name": "Archie Fisher",
+        "born": "October 23, 1939 (age 81 years), Glasgow, United Kingdom",
+        "genre": "Country Folk music, Pop, Folk",
+        "recordLabels": "Topic Records, Greentrax Recordings, MORE",
+        "demand": 800000,
+        "id":5,
+        "img": "./images/image5.jpg"
+
+    },
+    {
+        "key": "F66SFVR",
+        "name": "Dick Gaughan",
+        "born": " May 17, 1948 (age 73 years), Glasgow, United Kingdom",
+        "genre": "Folk music, Pop, Folk",
+        "recordLabels": "Greentrax Recordings, Topic Records, MORE",
+        "demand": 850000,
+        "id":6,
+        "img": "./images/image6.jpg"
+
+    },
+    {
+        "key": "G13MKRV",
+        "name": "Julie Fowlis",
+        "born": "June 20, 1978 (age 43 years), North Uist, United Kingdom",
+        "genre": "Folk, Celtic music, Jazz",
+        "recordLabels": "Julie Fowlis is a Scottish folk singer and multi-instrumentalist.",
+        "demand": 700000,
+        "id":7,
+        "img": "./images/image7.jpg"
+
+    },
+    {
+        "key": "I65SKCY",
+        "name": "Alan Stivell",
+        "born": "January 6, 1944 (age 77 years), Riom",
+        "genre": " Celtic music, Music of Brittany, World music, Folk",
+        "recordLabels": " singer, songwriter, recording artist, and master of the Celtic harp.",
+        "demand": 700000,
+        "id":8,
+        "img": "./images/image8.jpg"
+
+    },
+    {
+        "key": "J54HBTF",
+        "name": "Momtaz Begum",
+        "born": "May 5, 1974 (age 47 years), Singair Upazila",
+        "genre": "Folk music, Pop, Folk",
+        "recordLabels": "Bangladesh National Film Award for Best Female Playback Singer, MORE",
+        "demand": 500000,
+        "id":9,
+        "img": "./images/image9.jpg"
+
+    },
+    {
+        "key": "K53YECJ",
+        "name": "Saidur Rahman Boyati",
+        "born": "1931 (age 90 years), Manikganj District",
+        "genre": "Folk music, Pop, Folk",
+        "recordLabels": "Saidur Rahman Boyati is a Bangladesh folk singer of Baul genre. He was awarded Shilpakala Padak in 2013 and Bangladesh National Film Award for Best Male Playback Singer in 1995",
+        "demand": 300000,
+        "id":10,
+        "img": "./images/image10.jpg"
+
+    },
+    {
+        "key": "L75MKIJ",
+        "name": "Shushama Das",
+        "born": "May 1, 1930 (age 91 years), Sullah",
+        "genre": "Folk music, Pop, Folk",
+        "recordLabels": "Shushama Das is a Bangladeshi folk singer. She was awarded Ekushey Padak by the Government of Bangladesh in 2017",
+        "demand": 300000,
+        "id":11,
+        "img": "./images/image11.jpg"
+
+    },
+    {
+        "key": "M32LSDJ",
+        "name": "Kiran Chandra Roy",
+        "born": "December 31, 1954(age 66 years)",
+        "genre": "Folk music, Pop",
+        "recordLabels": "Bengal Foundation Limited, Bengal Creations Private Limited, Bengal Foundation",
+        "demand": 350000,
+        "id":12,
+        "img": "./images/image12.jpg"
+
+    }
+
+]
